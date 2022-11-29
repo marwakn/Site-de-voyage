@@ -1,0 +1,122 @@
+colors{
+    color: #16384c;
+ /*essential colors*/
+   color:#3166b2 ;
+         rgba(49,102,178,255) ;
+    color:#345ab4 ;
+        rgba(52,90,180,255)  ;
+    color: #2e6eaf;
+        rgba(49,110,175,255)  ;
+
+ /*second colors*/
+    color:#19b99f ;
+        rgba(25,185,159,255)  ;
+    color:#18bd9e ;
+       rgba(24,189,158,255)  ;
+    color: #1ab49e;
+       rgba(26,180,158,255) ;
+
+ /*third color*/
+ color:hsl(238, 97%, 65%);
+ color:#7672D7;
+ color:rgb(118,114,215);
+
+/*background colors*/
+    color:#f0eff0;
+     color:rgb(201, 191, 191);
+     /*best one*/
+   color:rgb(233, 234, 251);
+   color:rgb(228, 224, 224);
+     color:rgba(255, 165, 0, .2);
+  
+/*buttoms colors*/
+    color: #12c49d ;
+            rgba(18,196,157,255) ;
+    color:  #14c39c;
+            rgba(20,195,156,255) ;
+/*text colors*/
+
+    color:  #656666;
+
+    color: #bdebe7;
+             rgba(190,234,230,255);
+             hsl(175, 53%, 83%);
+
+    color: #93d7d1 ;
+            rgba(147,215,209,255) ;
+             
+    color:  #43b8a0;
+             rgba(67,184,160,255) ;
+
+
+    color: #9d9ea1 ;
+             rgba(157,158,161,255) ;
+             
+    color:  #323537 ;
+            rgba(50,53,55,255) ;
+    
+    color:  #5e5f65;
+           rgba(94,95,101,255) ;
+
+    color: black;
+    color: white;
+
+/*degrade  essential couleur*/
+    color: #3557b4;
+             rgba (53,87,180,255);
+    color:  #3656b5;
+             rgba(54,86,181,255);
+    color:  #345ab2;
+             rgba(52,90,178,255);
+    color:  #3458b3;
+            rgba(52,88,179,255);
+    color:  #2c74ad;
+             rgba(44,116,173,255);
+    color:  #2d71af;
+             rgba(45,113,175,255);
+    color:  #2d75ae;
+             rgba(45,117,174,255);
+    color:  #297fac;
+             rgba(41,127,172,255);
+    color:  #2884ab;
+             rgba(40,132,171,255);
+    color: #258ba9;
+             rgba(37,139,169,255);
+    color:  #23839f;
+             rgba(35,131,159,255);
+    color:  #228199;
+             rgba(34,129,153,255);
+
+ /*degrade  second couleur*/
+    color:  #208596;
+             rgba(32,133,150,255);
+    color:  #1f8994;
+             rgba(31,137,148,255);
+    color:  #1f8b93;
+             rgba(31,139,147,255);
+    color:  #1d8a8d;
+             rgba(29,138,141,255);
+    color:  #1e8e8f;
+             rgba(30,142,143,255);
+    color:  #1e9494;
+             rgba(30,148,148,255);
+    color:  #1d9694;
+             rgba(29,150,148,255);
+    color:  #1c9893;
+             rgba(28,152,147,255);
+    color:  #1a9a91;
+             rgba(26,154,145,255);
+    color:  #1aa195;
+             rgba(26,161,149,255);
+    color:  #1aa597;
+              rgba(26,165,151,255);
+    color:  #1ba999;
+             rgba(27,169,153,255);
+    color:  #1ab49e;
+             rgba(26,180,158,255);
+    color:  #19b99f;
+             rgba(25,185,159,255);
+    color:  #18bd9e;
+             rgba(24,189,158,255);
+
+}
